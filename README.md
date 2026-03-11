@@ -42,9 +42,6 @@ nutrition/
 │       ├── fpro_nutrition_models.joblib         # 12-feature model
 │       └── fpro_nutrition_models_10feat.joblib  # 10-feature portable model (used for CIQUAL)
 │
-├── files grocery DB 2/           ← Earlier phase: NOVA classification (4-class)
-│   └── 01_EDA_Feature_Engineering_Baseline.ipynb
-│
 ├── Ciqual data/
 │   ├── Table Ciqual 2025_ENG_2025_11_03.xlsx   # 3,484 French reference foods
 │   └── agribalyse-31-detail-par-ingredient.csv # Agribalyse 3.1 (semicolon-separated)
