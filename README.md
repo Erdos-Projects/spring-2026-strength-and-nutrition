@@ -56,7 +56,6 @@ nutrition/
 │       └── GroceryDB_IgFPro.csv         # 10,361 per-ingredient FPro scores
 │
 ├── preliminary_analysis.py        # Phase 1: CIQUAL nutrient density regression
-├── CLAUDE.md                      # Project guidance for Claude Code
 ├── EXECUTIVE_SUMMARY.md           # One-page project summary
 └── README.md                      # This file
 ```
