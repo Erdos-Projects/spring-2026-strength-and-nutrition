@@ -18,7 +18,7 @@ This project builds a machine learning pipeline that:
 2. Transfers the trained model to **French CIQUAL 2025** reference foods without retraining
 3. Asks whether **lower food processing also means lower environmental footprint** using Agribalyse 3.1 life-cycle assessment data
 
-**Key finding:** Lower processing  ≠  lower environmental impact. Processed animal products (cheese, cured meats, smoked fish) carry a higher environmental footprint than many ultra-processed grain- or sugar-based products. [presentation](./presentation.pdf)
+**Key finding:** Lower processing  ≠  lower environmental impact. Processed animal products (cheese, cured meats, smoked fish) carry a higher environmental footprint than many ultra-processed grain- or sugar-based products. All results and graphs can be accessed [here](./presentation.pdf).
 
 ---
 
