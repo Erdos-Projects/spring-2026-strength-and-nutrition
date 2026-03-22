@@ -36,8 +36,9 @@ nutrition/
 │   ├── 01_FPro_EDA_Ingredient_Analysis.ipynb   # EDA, price vs FPro, ingredient features
 │   ├── 02_Nutrition_FPro_Modeling.ipynb         # RF training, tuning, holdout evaluation, model export
 │   ├── 03_CIQUAL_Environmental_Analysis.ipynb   # CIQUAL transfer + Agribalyse environmental analysis
+|   ├── data_analysis Ciqual                     # CIQUAL data analysis
 │   ├── presentation.pptx                        # 5-minute final presentation (6 slides)
-│   ├── nutrition_fpro_presentation.md           # Slide notes / speaker outline
+│   └── nutrition_fpro_presentation.md           # Slide notes / speaker outline
 │
 ├── Ciqual data/
 │   ├── Table Ciqual 2025_ENG_2025_11_03.xlsx   # 3,484 French reference foods
