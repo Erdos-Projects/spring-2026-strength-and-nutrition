@@ -1,5 +1,5 @@
-# spring-2026-strength-and-nutrition
-Team project: spring-2026-strength-and-nutrition
+# spring-2026-food-processing-and-environmental-impact
+Team project: spring-2026-food-processing-and-environmental-impact
 # Predicting Food Processing & Environmental Impact
 ---
 
