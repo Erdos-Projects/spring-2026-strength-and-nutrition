@@ -92,7 +92,7 @@ nutrition/
 
 | Dataset | Description | Size |
 |---|---|---|
-| [GroceryDB]([https://github.com/ChaosStates/GroceryDB](https://github.com/Barabasi-Lab/GroceryDB/tree/main)) | US grocery products with FPro scores | 50,468 products |
+| [GroceryDB](https://github.com/ChaosStates/GroceryDB](https://github.com/Barabasi-Lab/GroceryDB/tree/main) | US grocery products with FPro scores | 50,468 products |
 | [CIQUAL 2025](https://ciqual.anses.fr/) | French food composition reference | 3,484 foods |
 | [Agribalyse 3.1](https://agribalyse.ademe.fr/) | French LCA environmental data | 6,161 ingredient rows |
 | [FoodProX / FoodProX paper](https://doi.org/10.1016/j.celrep.2022.110345) | FPro score source | — |
