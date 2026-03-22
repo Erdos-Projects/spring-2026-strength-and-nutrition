@@ -1,6 +1,6 @@
 # spring-2026-food-processing-and-environmental-impact
 Team project: spring-2026-food-processing-and-environmental-impact
-# Predicting Food Processing & Environmental Impact
+# Predicting Food Processing and Environmental Impact from Nutrition Labels
 ---
 
 ## Project Summary
