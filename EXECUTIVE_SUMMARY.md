@@ -12,9 +12,9 @@ Can a machine-learning model trained only on standard nutrition-label data repro
 
 ### Approach
 
-We used **GroceryDB** (https://github.com/Barabasi-Lab/GroceryDB/tree/main), a dataset of 50,468 US grocery products that carries FPro scores (a continuous 0–1 food-processing index from the FoodProX model). After filtering to products with complete nutrition data and removing physically impossible values, we trained a Random Forest on **12 log-transformed nutrients** (protein, fat, carbohydrates, sugar, fiber, calcium, iron, sodium, cholesterol, saturated fat, vitamin A, vitamin C) to predict FPro as both a continuous score and a four-class label.
+We used [**GroceryDB**](https://github.com/Barabasi-Lab/GroceryDB/tree/main), a dataset of 50,468 US grocery products that carries FPro scores (a continuous 0–1 food-processing index from the FoodProX model). After filtering to products with complete nutrition data and removing physically impossible values, we trained a Random Forest on **12 log-transformed nutrients** (protein, fat, carbohydrates, sugar, fiber, calcium, iron, sodium, cholesterol, saturated fat, vitamin A, vitamin C) to predict FPro as both a continuous score and a four-class label.
 
-The trained model was then applied (without further retraining) to **CIQUAL 2025** (https://ciqual.anses.fr/#/cms/download/node/20), the French national food-composition reference (3,484 foods). Predicted FPro classes were merged with **Agribalyse 3.1** (https://data.ademe.fr/datasets?topics=TQJGtxm2_ ) life-cycle-assessment data to test whether processing level predicts environmental impact.
+The trained model was then applied (without further retraining) to [**CIQUAL 2025**](https://ciqual.anses.fr/#/cms/download/node/20), the French national food-composition reference (3,484 foods). Predicted FPro classes were merged with [**Agribalyse 3.1**](https://data.ademe.fr/datasets?topics=TQJGtxm2_) life-cycle-assessment data to test whether processing level predicts environmental impact.
 
 ---
 
